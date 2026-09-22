@@ -1,13 +1,13 @@
 # Hi, I'm Bruno 👋
 
-Aerospace Engineer and C/C++ Software Engineer focused on
+Aerospace Engineer and C/C++ Software Engineer focused on  
 **Embedded Systems, FPGA and Digital Design**.
 
-I have professional experience developing engineering software in
-**C++ and Python** for aerospace applications, including aircraft
+I have professional experience developing engineering software in  
+**C++ and Python** for aerospace applications, including aircraft  
 performance, flight dynamics and Flight Management System development.
 
-Currently expanding my expertise in:
+## Current Technical Focus
 
 - C / C++
 - Embedded Systems
@@ -16,24 +16,73 @@ Currently expanding my expertise in:
 - Python
 - AMD Vivado / XSim
 - Digital Systems
+- Hardware Acceleration
 
 ## Featured Projects
 
-### 🔐 FPGA RSA Shared-Factor Detector
-FPGA accelerator based on parameterizable VHDL GCD cores for
-detecting shared prime factors between RSA public keys.
+### 🔐 [FPGA RSA Shared-Factor Detector](https://github.com/esh2900/fpga-rsa-shared-factor-detector)
 
-### ⚙️ FPGA Digital Design
-VHDL/RTL projects including UART TX/RX, FIFO buffers,
-arithmetic architectures and self-checking testbenches.
+FPGA accelerator based on parameterizable VHDL GCD cores for detecting
+shared prime factors between RSA public keys.
 
-### 🔭 Andromeda Firmware
-Embedded firmware developed with ESP-IDF involving sensors,
-stepper motors, PWM and control algorithms.
+The project explores:
 
-## Interests
+- Stein's Binary GCD algorithm
+- Parameterizable RTL architectures
+- Wide-integer arithmetic
+- FPGA parallelism
+- Hardware acceleration
+- Self-checking VHDL verification
 
-Embedded Software • FPGA • RTL • Avionics • C/C++ • Hardware Acceleration
+---
+
+### ⚙️ [FPGA Digital Design in VHDL](https://github.com/esh2900/VHDL_basics_vivado)
+
+Collection of FPGA and RTL design projects developed in VHDL.
+
+Current implementations include:
+
+- UART TX/RX
+- UART loopback verification
+- Synchronous FIFO buffer
+- Finite State Machines
+- Carry Lookahead and Ripple Carry Adders
+- FPGA synthesis and timing comparison
+- Self-checking VHDL testbenches
+
+---
+
+### 🔭 [Andromeda Embedded Firmware](https://github.com/esh2900/andromeda-firmware)
+
+Embedded firmware developed using **ESP-IDF** for an automated telescope
+mount system.
+
+The project includes:
+
+- Sensor integration
+- Stepper motor control
+- PWM generation
+- Orientation algorithms
+- Embedded control logic
+- ESP32 firmware development
+
+## Technical Interests
+
+**Embedded Software • FPGA • RTL • Avionics • C/C++ • Digital Design • Hardware Acceleration**
+
+## Background
+
+🎓 B.Sc. in Aerospace Engineering  
+🎓 M.Sc. in Materials Integrity for Engineering  
+💻 Graduate Certificate in Software Engineering  
+✈️ Professional experience developing aerospace engineering software
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/bruno-giuliani-gomes/)  
+[GitHub](https://github.com/esh2900)
+
+📍 Hannover, Germany
 
 <!--
 **esh2900/esh2900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
