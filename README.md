@@ -1,7 +1,6 @@
 # Hi, I'm Bruno 👋
 
-Aerospace Engineer and C/C++ Software Engineer focused on  
-**Embedded Systems, FPGA and Digital Design**.
+Aerospace Engineer and C/C++ Software Engineer currently focusing on Embedded Systems,FPGA and Digital Design.
 
 I have professional experience developing engineering software in  
 **C++ and Python** for aerospace applications, including aircraft  
