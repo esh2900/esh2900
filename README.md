@@ -51,19 +51,18 @@ Current implementations include:
 
 ---
 
-### 🔭 [Andromeda Embedded Firmware](https://github.com/esh2900/andromeda-firmware)
+### 🚀 [Spacecraft Sensor Simulation & FDIR](https://github.com/esh2900/spacecraft-sensor-fdir)
 
-Embedded firmware developed using **ESP-IDF** for an automated telescope
-mount system.
+A multithreaded spacecraft sensor simulation developed in **C++20**, featuring sensor acquisition, real-time-oriented data processing, and Fault Detection, Isolation, and Recovery (FDIR) monitoring.
 
 The project includes:
 
-- Sensor integration
-- Stepper motor control
-- PWM generation
-- Orientation algorithms
-- Embedded control logic
-- ESP32 firmware development
+- Multithreaded sensor acquisition (IMU and GNSS)
+- Thread-safe communication using mutexes and shared queues
+- Periodic data processing and sensor data validation
+- Independent FDIR monitoring and watchdog mechanisms
+- Fault injection and failure simulation
+- Unit testing, CSV logging, and Python-based data visualization
 
 ## Technical Interests
 
