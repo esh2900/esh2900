@@ -66,7 +66,7 @@ The project includes:
 
 ## Technical Interests
 
-**Embedded Software • FPGA • RTL • Avionics • C/C++ • Digital Design • Hardware Acceleration**
+**Embedded Systems • C/C++ • FPGA • RTL • Avionics • Python • Digital Design • Hardware Acceleration**
 
 ## Background
 
